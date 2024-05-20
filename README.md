@@ -1,1 +1,10 @@
-# Puzzle_Game_JS
+# Puzzle_Game_JS![image_part_002](https://github.com/Thayuran/Puzzle_Game_JS/assets/77486711/5ed7f770-25b2-4ebc-a9e5-ca4a5c80e43e)
+![image_part_001](https://github.com/Thayuran/Puzzle_Game_JS/assets/77486711/401940a4-4c1d-4b79-86b5-69dab890d2d5)
+![main](https://github.com/Thayuran/Puzzle_Game_JS/assets/77486711/30d462ad-8b38-4319-9e6e-51105581a7a6)
+![image_part_009](https://github.com/Thayuran/Puzzle_Game_JS/assets/77486711/0129e0a2-613d-43d4-a6ee-c7c0f8ebfb53)
+![image_part_008](https://github.com/Thayuran/Puzzle_Game_JS/assets/77486711/24348295-6258-4687-85ed-66406edc1807)
+![image_part_007](https://github.com/Thayuran/Puzzle_Game_JS/assets/77486711/762f852a-aa4c-4acb-aa18-31ab64037075)
+![image_part_006](https://github.com/Thayuran/Puzzle_Game_JS/assets/77486711/fce13afc-8dd1-4597-9d27-af2a10a5836b)
+![image_part_005](https://github.com/Thayuran/Puzzle_Game_JS/assets/77486711/00ec0d9f-2190-44d2-a572-99a1faa7905f)
+![image_part_004](https://github.com/Thayuran/Puzzle_Game_JS/assets/77486711/1b62e4dc-6c2d-4fb3-a0f5-69c9c0da9bfb)
+![image_part_003](https://github.com/Thayuran/Puzzle_Game_JS/assets/77486711/de37b59f-db84-4aa1-9ddb-393a681a014d)
